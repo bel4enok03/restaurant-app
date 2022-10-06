@@ -23,6 +23,7 @@ function calculateAmount(e) {
         title: 'Error!',
         text: 'Please enter your information!'
     })
+    return false;
     }
 
 //Формулы
